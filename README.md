@@ -1,2 +1,2 @@
-# customized-react-proj-mobile
-A personal react development environment for mobile
+# 豆瓣
+基于React的移动版豆瓣
